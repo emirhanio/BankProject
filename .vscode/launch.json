@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Bank System",
+            "request": "launch",
+            "mainClass": "src.BankProject",
+            "projectName": "myapp_bb344cb",
+            "vmArgs": "--module-path \"C:/Users/hasan/OneDrive/Masaüstü/openjfx-17.0.18_windows-x64_bin-sdk/javafx-sdk-17.0.18/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
